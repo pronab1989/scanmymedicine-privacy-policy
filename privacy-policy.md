@@ -2,7 +2,7 @@
 
 **Effective Date:** [7-30-2025]
 **App Version:** 1.0.0
-**Package Name:** com.scanmymedicine.app
+**Package Name:** com.knowmymeds.app
 **Developer:** Individual Developer Account
 **App Type:** Educational Reference Tool
 
@@ -144,7 +144,7 @@ If you have any questions about this Privacy Policy or our data practices, pleas
 **Email:** [bazaryo2025@gmail.com]
 **Address:** [Maharastra India]
 **App:** KnowMyMeds
-**Package:** com.scanmymedicine.app
+**Package:** com.knowmymeds.app
 **Developer:** Individual Developer Account
 
 ## 13. Data Breach Notification
@@ -167,6 +167,12 @@ This app is designed as an educational reference tool for medicine information. 
 - **Not a Substitute**: This app is not a substitute for professional medical care
 - **Use at Own Risk**: Users use this educational reference tool at their own risk and discretion
 
+### 14.3 Individual Developer Compliance
+- **App Category**: Educational Reference Tool (Lifestyle category)
+- **Developer Type**: Individual Developer Account
+- **No Organization Required**: This educational app does not require an organization account
+- **Compliance**: Meets all requirements for individual developer upload
+
 ---
 
 **Last Updated:** [7-30-2025]
@@ -174,4 +180,4 @@ This app is designed as an educational reference tool for medicine information. 
 **Developer:** Individual Developer Account
 **App Type:** Educational Reference Tool
 
-**EDUCATIONAL DISCLAIMER:** This app is designed for educational and reference purposes only. All medical information provided is for educational reference and should not be used as a substitute for professional medical advice. Users are responsible for consulting healthcare professionals for medical decisions. 
+**EDUCATIONAL DISCLAIMER:** This app is designed for educational and reference purposes only. All medicine information provided is for educational reference and should not be used as a substitute for professional medical advice. Users are responsible for consulting healthcare professionals for medical decisions. 
