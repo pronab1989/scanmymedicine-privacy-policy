@@ -1,57 +1,60 @@
-# Privacy Policy for Scan My Medicine
+# Privacy Policy for KnowMyMeds
 
-**Effective Date:** [7-30-2025]  
-**App Version:** 1.0.0  
-**Package Name:** com.example.scan_my_medicine
+**Effective Date:** [7-30-2025]
+**App Version:** 1.0.0
+**Package Name:** com.scanmymedicine.app
+**Developer:** Individual Developer Account
+**App Type:** Educational Reference Tool
 
 ## 1. Introduction
 
-Welcome to Scan My Medicine ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application "Scan My Medicine" (the "App").
+Welcome to KnowMyMeds ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application "KnowMyMeds" (the "App").
+
+**IMPORTANT EDUCATIONAL DISCLAIMER:** This app is designed for educational and reference purposes only. All medicine information provided is for educational reference and should not be used as a substitute for professional medical advice. Users are responsible for consulting healthcare professionals for medical decisions.
 
 By using our App, you consent to the data practices described in this Privacy Policy.
 
 ## 2. Information We Collect
 
 ### 2.1 Information You Provide
-- **Medicine Information**: When you scan medicines or use OCR features, the app processes medicine names, dosages, and prescription details
-- **Reminder Settings**: When you set medication reminders, we store your reminder preferences and schedules
-- **Contact Information**: If you choose to share contact information for emergency purposes
-- **Location Data**: When you grant location permissions for enhanced features
+- **Educational Reference Data**: When you scan medicines or use OCR features, the app processes medicine names, dosages, and prescription details for educational reference
+- **Reminder Settings**: When you set medication reminders, we store your reminder preferences and schedules locally
+- **App Preferences**: User settings and preferences for educational content
 
 ### 2.2 Information Collected Automatically
-- **Device Information**: Device model, operating system version, unique device identifiers
-- **App Usage Data**: Features used, scan results, search queries
-- **Camera Data**: Images captured for OCR text recognition (processed locally)
-- **Location Data**: Precise and approximate location when permission is granted
+- **Device Information**: Device model, operating system version, unique device identifiers for compatibility
+- **App Usage Data**: Features used, scan results, search queries for educational content optimization
+- **Camera Data**: Images captured for OCR text recognition (processed locally for educational reference)
+- **Educational Analytics**: Anonymous usage patterns to improve educational content
 
 ### 2.3 Third-Party Services
-- **Google Mobile Ads**: Ad serving and analytics
-- **Google ML Kit**: Text recognition for OCR features
-- **Mobile Scanner**: QR code and barcode scanning
+- **Google Mobile Ads**: Ad serving and analytics to support free app usage
+- **Google ML Kit**: Text recognition for educational reference features
+- **Mobile Scanner**: QR code and barcode scanning for information lookup
 
 ## 3. How We Use Your Information
 
-### 3.1 Core App Functionality
-- **Medicine Scanning**: Process QR codes and barcodes to identify medicines
-- **OCR Text Recognition**: Extract text from medicine images and prescriptions
-- **Medicine Search**: Provide medicine information and details
-- **Reminder Management**: Send medication reminders and notifications
-- **First Aid Information**: Provide emergency medical information
+### 3.1 Educational App Functionality
+- **Medicine Reference**: Process QR codes and barcodes to provide educational medicine information
+- **OCR Text Recognition**: Extract text from medicine images and prescriptions for educational reference
+- **Medicine Search**: Provide educational medicine information and details
+- **Reminder Management**: Send medication reminders for user convenience
+- **Educational Content**: Improve educational reference materials and features
 
 ### 3.2 Advertising
 - **AdMob Integration**: Display relevant advertisements to support free app usage
 - **Ad Analytics**: Analyze ad performance and user engagement
 
 ### 3.3 App Improvement
-- **Usage Analytics**: Understand how users interact with the app
-- **Feature Development**: Improve existing features and develop new ones
+- **Usage Analytics**: Understand how users interact with educational content
+- **Feature Development**: Improve existing educational features and develop new ones
 - **Bug Fixes**: Identify and resolve technical issues
 
 ## 4. Data Storage and Security
 
 ### 4.1 Local Storage
 - **Shared Preferences**: Store app settings and user preferences locally
-- **Medicine Database**: Offline medicine information stored on device
+- **Educational Database**: Offline medicine information stored on device for reference
 - **Reminder Data**: Medication reminders stored locally
 
 ### 4.2 Data Security
@@ -62,28 +65,18 @@ By using our App, you consent to the data practices described in this Privacy Po
 ## 5. Permissions and Their Use
 
 ### 5.1 Camera Permission
-- **Purpose**: Scan QR codes, barcodes, and capture images for OCR
-- **Usage**: Medicine identification and prescription text recognition
+- **Purpose**: Scan QR codes, barcodes, and capture images for educational reference
+- **Usage**: Medicine identification and prescription text recognition for educational purposes
 - **Data**: Images are processed locally and not stored permanently
 
-### 5.2 Location Permission
-- **Purpose**: Provide location-based features and emergency services
-- **Usage**: Enhanced medicine recommendations and emergency contact features
-- **Data**: Precise and approximate location when app is in use
-
-### 5.3 Notification Permission
-- **Purpose**: Send medication reminders and important alerts
+### 5.2 Notification Permission
+- **Purpose**: Send medication reminders for user convenience
 - **Usage**: Scheduled medication reminders and app notifications
 - **Data**: Reminder preferences and notification settings
 
-### 5.4 Contact Permission
-- **Purpose**: Emergency contact features and sharing capabilities
-- **Usage**: Store emergency contacts for safety features
-- **Data**: Contact names and phone numbers (with user consent)
-
-### 5.5 Internet Permission
-- **Purpose**: Ad serving, app updates, and online features
-- **Usage**: Google Mobile Ads, app analytics, and connectivity features
+### 5.3 Internet Permission
+- **Purpose**: Ad serving, educational content delivery, and app updates
+- **Usage**: Google Mobile Ads, educational content, and connectivity features
 - **Data**: Network connectivity status and ad-related data
 
 ## 6. Third-Party Services
@@ -94,13 +87,13 @@ By using our App, you consent to the data practices described in this Privacy Po
 - **Privacy Policy**: [Google AdMob Privacy Policy](https://policies.google.com/privacy)
 
 ### 6.2 Google ML Kit
-- **Purpose**: Text recognition for OCR features
+- **Purpose**: Text recognition for educational reference features
 - **Data Shared**: Images for text processing (processed locally when possible)
 - **Privacy Policy**: [Google ML Kit Privacy Policy](https://policies.google.com/privacy)
 
 ### 6.3 Mobile Scanner
-- **Purpose**: QR code and barcode scanning
-- **Data Shared**: Scan results for medicine identification
+- **Purpose**: QR code and barcode scanning for educational information lookup
+- **Data Shared**: Scan results for educational reference
 - **Privacy Policy**: [Mobile Scanner Privacy Policy](https://pub.dev/packages/mobile_scanner)
 
 ## 7. Data Retention
@@ -108,7 +101,7 @@ By using our App, you consent to the data practices described in this Privacy Po
 ### 7.1 Local Data
 - **App Settings**: Retained until app uninstallation
 - **Reminder Data**: Retained until manually deleted or app uninstallation
-- **Scan History**: Not permanently stored (processed in real-time)
+- **Educational Data**: Not permanently stored, processed for reference only
 
 ### 7.2 Analytics Data
 - **Usage Analytics**: Retained for up to 2 years for app improvement
@@ -118,14 +111,12 @@ By using our App, you consent to the data practices described in this Privacy Po
 
 ### 8.1 Data Access
 - You can access your stored data through the app settings
-- Export your reminder data and preferences
 - Request deletion of your data
 
 ### 8.2 Permission Management
 - Control camera access through device settings
-- Manage location permissions in app settings
 - Disable notifications through device settings
-- Revoke contact access through device settings
+- Manage app permissions through device settings
 
 ### 8.3 Ad Preferences
 - Opt out of personalized ads through device settings
@@ -150,11 +141,11 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy or our data practices, please contact us:
 
-**Email:** [bazaryo2025@gmail.com]  
-**Address:** [Maharastra India]  
-**App:** Scan My Medicine  
-**Package:** com.example.scan_my_medicine
-
+**Email:** [bazaryo2025@gmail.com]
+**Address:** [Maharastra India]
+**App:** KnowMyMeds
+**Package:** com.scanmymedicine.app
+**Developer:** Individual Developer Account
 
 ## 13. Data Breach Notification
 
@@ -164,7 +155,29 @@ In the event of a data breach that affects your personal information, we will:
 - Take immediate steps to secure your information
 - Cooperate with relevant authorities
 
+## 14. Educational Purpose and Medical Disclaimer
+
+### 14.1 Educational Purpose
+This app is designed as an educational reference tool for medicine information. All features and content are provided for educational and reference purposes only.
+
+### 14.2 Medical Disclaimer
+- **No Medical Services**: This app does not provide medical advice, diagnosis, or treatment
+- **Educational Reference Only**: All medicine information is for educational reference
+- **User Responsibility**: Users should consult healthcare professionals for medical decisions
+- **Not a Substitute**: This app is not a substitute for professional medical care
+- **Use at Own Risk**: Users use this educational reference tool at their own risk and discretion
+
+### 14.3 Individual Developer Compliance
+- **App Category**: Educational Reference Tool (Lifestyle category)
+- **Developer Type**: Individual Developer Account
+- **No Organization Required**: This educational app does not require an organization account
+- **Compliance**: Meets all requirements for individual developer upload
+
 ---
 
-**Last Updated:** [7-30-2025 ]  
-**Version:** 1.0.0 
+**Last Updated:** [7-30-2025]
+**Version:** 1.0.0
+**Developer:** Individual Developer Account
+**App Type:** Educational Reference Tool
+
+**EDUCATIONAL DISCLAIMER:** This app is designed for educational and reference purposes only. All medicine information provided is for educational reference and should not be used as a substitute for professional medical advice. Users are responsible for consulting healthcare professionals for medical decisions. 
